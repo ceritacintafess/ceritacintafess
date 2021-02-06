@@ -4,11 +4,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ceritacintafess/ceritacintafess/main/wave.gif" width="30px">
 
-I'm a Software Developer/DevOps Engineer. I'm from Surakarta, Central Java, Indonesia. Living in Meikarta and currently working at IBM.
+I'm a Software Developer/DevOps Engineer. I'm from Surakarta, Central Java, Indonesia.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a Blog, Twitter bot, Telegram bot.
+Apart from coding, I also maintain a Blog, Twitter bot, Telegram bot, Discord bot, Facebook bot, etc.
 
 ## 🔧 Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
