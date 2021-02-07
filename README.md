@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ceritacintafess/ceritacintafess/main/wave.gif" width="30px">
 
-Official Account @ceritacintafess (Twitter), @ceritacintafess_bot(Telegram).
+Official Account @ceritacintafess (Twitter), @ceritacintafess_bot (Telegram).
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a Blog, Twitter bot, Telegram bot, Discord bot, Facebook bot, etc.
